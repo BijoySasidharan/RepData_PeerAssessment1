@@ -1,8 +1,8 @@
 ---
-title: "Reproducible Research-Course Project"
-author: "Bijoy Sasidharan"
-date: "March 6, 2016"
-output: html_document
+###title: "Reproducible Research-Course Project"
+###author: "Bijoy Sasidharan"
+###date: "March 6, 2016"
+###output: html_document
 
 ----
 
